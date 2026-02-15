@@ -8,6 +8,8 @@ onnx
 onnxruntime
 onnxruntime-gpu
 numpy
+graphviz
+onnx2dot
 
 # Data Science & Machine Learning
 # numpy
